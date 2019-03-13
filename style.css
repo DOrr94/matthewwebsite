@@ -108,7 +108,7 @@ p {
     display: block;
     height: 45px;
     line-height: 45px;
-    Margin-left: 10px
+    padding: 10px
 }
 .content {
     min-height: 500px;
