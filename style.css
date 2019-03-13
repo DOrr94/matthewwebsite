@@ -131,7 +131,7 @@ p {
  display: flex;
  flex-direction: row;
  flex-wrap: wrap;
- justify-content: space-around;
+ justify-content: center;
 }
 
 .gallery-item{
