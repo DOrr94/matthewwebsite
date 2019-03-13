@@ -112,7 +112,9 @@ p {
 .content {
     min-height: 500px;
     max-width: 100%;
-    margin: 50px
+    margin: 50px;
+    margin-left: 10px;
+      
 }
 
 .content > div{
