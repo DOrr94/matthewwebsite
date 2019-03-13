@@ -133,3 +133,8 @@ p {
  flex-wrap: wrap;
  justify-content: space-around;
 }
+
+.gallery-item{
+   width: 200px;
+   height: auto;
+}
