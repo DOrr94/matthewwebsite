@@ -135,6 +135,6 @@ p {
 }
 
 .gallery-item{
-   width: 200px;
-   height: auto;
+   width: auto;
+   height: 200px;
 }
